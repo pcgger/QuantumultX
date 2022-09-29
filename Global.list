@@ -1,4 +1,5 @@
 # > Globallist
+DOMAIN-SUFFIX,instagram.com,PROXY
 DOMAIN-SUFFIX,tiktokv.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn.com,PROXY
 DOMAIN-SUFFIX,9cache.com,PROXY
